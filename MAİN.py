@@ -4,6 +4,15 @@ meme_dict = {
 
             "LOL": "Komik bir şeye verilen cevap",
 
+            "ROFL": " bir şakaya karşılık cevap",
+
+            "CREEPY":  "korkunç",
+
+            "AGGRO": " agresifleşmek/sinirlenmek",
+
+            
+            
+
             }
 
  
